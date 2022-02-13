@@ -7,5 +7,8 @@ Nesta linha testei a opção de alteração do projeto pelo github para depois f
 
 Alteração com sucesso e adicionada ao github.
 
+
+Alteração feita no desktop.
+
 **links Úteis sobre o markdown:**
 [Sintaxe básica do Markdown](https://www.markdownguide.org/)
